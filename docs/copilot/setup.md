@@ -8,7 +8,7 @@ DateApproved: 02/28/2024
 MetaDescription: Access your GitHub Copilot subscription and set up GitHub Copilot in Visual Studio.
 MetaSocialImage: images/shared/github-copilot-social.png
 ---
-# Set up GitHub Copilot in VS Code
+p# Set up GitHub Copilot in VS Code
 
 This tutorial walks you through setting up your GitHub Copilot subscription and installing the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) extension in Visual Studio Code. After you complete these steps, you can get started with GitHub Copilot in VS Code.
 
